@@ -31,7 +31,7 @@ This project focuses on designing and simulating the network infrastructure for 
 ## Usage
 - **Network Topology**: The network consists of two sites, interconnected with VLANs, static and dynamic routing (OSPF), and WAN technologies. The simulation includes tests for high availability using HSRP and EtherChannel. Wireless networks are also configured.
   
-  ![Network Topology](images/topology.png) *(Add images from your PDF here)*
+  ![Network Topology](images/topology.jpg)
 
 - **Server Environment**: Configurations include DHCP, DNS, Active Directory, and backup servers. The setup ensures redundancy and efficient IP address allocation.
 
