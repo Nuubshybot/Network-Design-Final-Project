@@ -16,7 +16,7 @@ This project focuses on designing and simulating the network infrastructure for 
 
 ## Requirements
 - [![cisco][cisco]][cisco-url]
-- Operating System: [![windows][windows]][windows-url]/[![linux][linux]][linux-url]
+- [![windows][windows]][windows-url]/[![linux][linux]][linux-url]
 - Basic knowledge of VLANs, routing protocols (OSPF, HSRP), and server configuration
 
 ## Installation
