@@ -1,4 +1,3 @@
-
 # Network Design Final Project
 
 ## Project Description
@@ -16,8 +15,8 @@ This project focuses on designing and simulating the network infrastructure for 
 
 
 ## Requirements
-- Cisco Packet Tracer (Version X.X or higher)
-- Operating System: Windows/Linux
+- [![cisco][cisco]][cisco-url]
+- Operating System: [![windows][windows]][windows-url]/[![linux][linux]][linux-url]
 - Basic knowledge of VLANs, routing protocols (OSPF, HSRP), and server configuration
 
 ## Installation
@@ -52,3 +51,12 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 For any questions, please contact:
 - Name: Zoltan Varga
 - Email: varga.zoltan014@gmail.com
+
+[cisco]: https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black
+[cisco-url]: https://www.packettracernetwork.com/download/download-packet-tracer.html
+
+[windows]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[windows-url]: https://www.microsoft.com/hu-hu/software-download
+
+[linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[linux-url]: https://ubuntu.com/download
